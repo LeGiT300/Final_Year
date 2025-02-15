@@ -1,0 +1,28 @@
+0 apple
+1 back to
+2 boy
+3 call
+4 can
+5 class
+6 deaf
+7 draw
+8 find
+9 girl
+10 hard of hearing
+11 hearing
+12 help
+13 I
+14 I love you
+15 learn
+16 my
+17 sorry
+18 thank you
+19 that
+20 this
+21 want
+22 water
+23 who
+24 will
+25 won't
+26 you
+27 your
